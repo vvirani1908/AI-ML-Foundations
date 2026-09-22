@@ -6,7 +6,7 @@ This repository contains executed Colab notebooks and video explanations for the
 
 | # | Topic | Executed notebook | YouTube explanation |
 |---|---|---|---|
-| 1 | Introduction to Python | Pending | [Watch video](https://youtu.be/tKdSqAnQ1k4) |
+| 1 | Introduction to Python | [Open Colab](https://colab.research.google.com/drive/1-prl-Wh0kvAhL0MAz29s7Z2Y-WoDwRMg?usp=sharing) | [Watch video](https://youtu.be/tKdSqAnQ1k4) |
 | 2 | Introduction to NumPy | Pending | Pending |
 | 3 | Introduction to Pandas | Pending | Pending |
 | 4 | Introduction to Matplotlib | Pending | Pending |
