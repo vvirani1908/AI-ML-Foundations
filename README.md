@@ -8,7 +8,7 @@ This repository contains executed Colab notebooks and video explanations for the
 |---|---|---|---|
 | 1 | Introduction to Python | [Open Colab](https://colab.research.google.com/drive/1-prl-Wh0kvAhL0MAz29s7Z2Y-WoDwRMg?usp=sharing) | [Watch video](https://youtu.be/tKdSqAnQ1k4) |
 | 2 | Introduction to NumPy | [Open Colab](https://colab.research.google.com/drive/1Ohy1W-uZiTETvSyCWlWwHj5ZlZ5DtMqo) | [Watch video](https://youtu.be/F60c1OS7XsQ) |
-| 3 | Introduction to Pandas | Pending | Pending |
+| 3 | Introduction to Pandas | [Open Colab](https://colab.research.google.com/drive/1ARq-iitaOsvQUMXIpQVfapd7mXJTn5jB?authuser=1) | Pending |
 | 4 | Introduction to Matplotlib | Pending | Pending |
 | 5 | Linear algebra | Pending | Pending |
 | 6 | Linear algebra | Pending | Pending |
