@@ -21,7 +21,7 @@ This repository contains executed Colab notebooks and video explanations for the
 | 13 | Calculus for deep learning | [Open Colab](https://colab.research.google.com/drive/1FnzGW4xP1Y_ce9Wz4yERXno9R5nRjnxR?usp=sharing) | Pending |
 | 14 | Calculus foundations | [Open Colab](https://colab.research.google.com/drive/1G5dkNUNk020f-gWX7wg6-PWbEaHuCoak?usp=sharing) | Pending |
 | 15 | Introductory calculus | [Open Colab](https://colab.research.google.com/drive/1m5X44A9sNpu2PFfV17vpHCYW4F0Df4yC?usp=sharing) | Pending |
-| 16 | Foundations of learning | Pending | Pending |
+| 16 | Foundations of learning | [Open Colab](https://colab.research.google.com/drive/1G5dkNUNk020f-gWX7wg6-PWbEaHuCoak?usp=sharing) | Pending |
 
 ## Neural Network Playground
 
