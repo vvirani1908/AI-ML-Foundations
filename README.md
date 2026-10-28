@@ -11,9 +11,9 @@ This repository contains executed Colab notebooks and video explanations for the
 | 3 | Introduction to Pandas | [Open Colab](https://colab.research.google.com/drive/1ARq-iitaOsvQUMXIpQVfapd7mXJTn5jB?authuser=1) | [Watch video](https://www.youtube.com/watch?v=F60c1OS7XsQ) |
 | 4 | Introduction to Matplotlib | [Open Colab](https://colab.research.google.com/drive/1iKzmXJJ5gK8SzwUfAEwPpvvClUAzzOyr?authuser=1) | [Watch video](https://www.youtube.com/watch?v=F60c1OS7XsQ) |
 | 5 | Linear algebra | [Open Colab](https://colab.research.google.com/drive/1AOniMkKFH052QVa4kNTEu_E1YEB1BiDR?authuser=1) | [Watch video](https://www.youtube.com/watch?v=F60c1OS7XsQ) |
-| 6 | Linear algebra | [Open Colab](https://colab.research.google.com/drive/15hhaZtfY-8StpWyroHJMtLDxx1LSF5z9?usp=sharing) | Pending |
+| 6 | Linear algebra | Pending | Pending |
 | 7 | Linear algebra | Pending | Pending |
-| 8 | Probability fundamentals | Pending | Pending |
+| 8 | Probability fundamentals | [Open Colab](https://colab.research.google.com/drive/15hhaZtfY-8StpWyroHJMtLDxx1LSF5z9?usp=sharing) | Pending |
 | 9 | Statistics fundamentals | Pending | Pending |
 | 10 | Probability for deep learning | Pending | Pending |
 | 11 | Statistics for deep learning | Pending | Pending |
